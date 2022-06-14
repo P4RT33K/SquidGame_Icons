@@ -3,6 +3,6 @@
 
 Another small project that I made for fun as I'm a fan of 'SQUID GAME'.
 
-[link]()
+[link](https://p4rt33k.github.io/SquidGame_Icons/home)
 
 KEEP WATCHING! :)
