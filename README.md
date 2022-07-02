@@ -3,4 +3,4 @@
 
 I made this as I'm a fan of 'SQUID GAME'.
 
-Here's the [https://p4rt33k.github.io/SquidGame_Icons/home) to it!
+Here's the [link](https://p4rt33k.github.io/SquidGame_Icons/home) to it!
